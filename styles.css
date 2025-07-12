@@ -28,6 +28,14 @@ body {
   color: #1a202c;
 }
 
+button:focus,
+button:active,
+button a:focus,
+button a:active {
+  outline: none !important;
+  box-shadow: none !important;
+} 
+
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
@@ -192,6 +200,8 @@ textarea:focus {
 }
 
 /* Profile Section CSS */
+
+
 .container {
   padding: 2rem 0;
 }
