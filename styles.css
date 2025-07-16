@@ -34,7 +34,7 @@ button a:focus,
 button a:active {
   outline: none !important;
   box-shadow: none !important;
-} 
+}
 
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
@@ -200,7 +200,6 @@ textarea:focus {
 }
 
 /* Profile Section CSS */
-
 
 .container {
   padding: 2rem 0;
@@ -524,8 +523,9 @@ textarea:focus {
 }
 
 /* home css */
-.home-text{
-      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.home-text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 /* Typing Animation */
